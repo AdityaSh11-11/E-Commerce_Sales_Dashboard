@@ -1,4 +1,4 @@
-## Sales Dashboard
+## E-Commerce Sales Dashboard
 
 Project Overview:
 This project is a Sales Analytics Dashboard built using Power BI.
